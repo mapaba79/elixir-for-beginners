@@ -9,4 +9,4 @@ defmodule Calculator do
 end
 
 # 120
-IO.puts(Calculator.factorial(6))
+IO.puts(Calculator.factorial(5))
